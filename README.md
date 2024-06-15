@@ -21,6 +21,4 @@ Este é um projeto Java que simula um iPhone básico com funcionalidades de repr
   - Método `adicionarNovaAba()`: Adiciona uma nova aba ao navegador.
   - Método `atualizarPagina()`: Atualiza a página atual do navegador.
   - Método `definirPaginaInicial(String url)`: Define a página inicial do navegador.
-  - Método `exibirHistorico()`: Exibe o histórico de navegação do navegador.
-    
-## Diagrama de Classes
+  - Método `exibirHistorico()`: Exibe o histórico de navegação do navegador
